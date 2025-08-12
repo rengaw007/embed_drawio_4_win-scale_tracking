@@ -1,5 +1,7 @@
 Let’s install these app scripts using our own accounts by following these instructions:
 
+Create a drive folder and place slide and drawio file inside this
+
 # Step 1: 
 Open Slides and select “Apps Script” from the “Extensions” menu.
 # Step 2: 
