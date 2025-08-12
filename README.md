@@ -1,6 +1,6 @@
 Let's install these app script using your our own account by theses instructions:
 # Step1
-Open Google Docs/Sheets/Slides, then from "Extensions" menu, select "Apps Script".
+Open Slides, then from "Extensions" menu, select "Apps Script".
 # Step2
 In the open editor, copy the code from Code.gs and paste it into the editor. Then, add a new HTML file named "Picker.html" and copy the code from Picker.html and paste it into the editor.
 # Step3
